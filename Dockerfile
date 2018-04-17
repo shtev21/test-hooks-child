@@ -1,1 +1,1 @@
-FROM gcr.io/jellyfish-development-167809/wordpress-wordpress:0.0.03
+FROM gcr.io/jellyfish-development-167809/wordpress-wordpress:0.0.04
