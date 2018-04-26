@@ -1,4 +1,4 @@
-FROM gcr.io/jellyfish-development-167809/wordpress-wordpress:1.0.18
+FROM gcr.io/jellyfish-development-167809/wordpress-wordpress:1.0.19
 
 bfsbdfbadg a
 dsg adfbs 
